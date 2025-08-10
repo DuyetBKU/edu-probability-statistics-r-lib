@@ -50,7 +50,7 @@ By visualizing and simulating data, we:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DuyetBKU/probability-statistics-r-lib.git
+   git clone https://github.com/DuyetBKU/edu-probability-statistics-r-lib.git
    ```
 2. Open the project in RStudio.
 3. Run any `.R` script or `.Rmd` file to begin exploring.
