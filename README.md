@@ -210,7 +210,6 @@ By visualizing and simulating data, we:
 We’d love your help to improve this project. Feel free to:
 
 - ⭐ Star this repo if you find it useful  
-- 🐞 Open issues if you spot bugs or unclear code  
 - 📥 Submit pull requests to contribute new lessons or enhancements  
 
 Let’s build a library where statistics meets storytelling — together.
